@@ -86,3 +86,5 @@ margin: 0;
         </div>
     )
 }
+
+export default IdentVisual;

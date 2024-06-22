@@ -1,11 +1,11 @@
 import './App.css'
-import Portifolio from './Identidadevisual'
+import IdentVisual from './Identidadevisual'
 
 function App() {
 
   return (
     <>
-      <Portifolio />
+      < IdentVisual />
     </>
   )
 }

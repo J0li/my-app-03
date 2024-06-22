@@ -1,6 +1,6 @@
-import '../assets/negocio.svg'
-import '../assets/Cores.svg'
-import '../assets/Cell_PhoneApp.svg'
+import './assets/negocio.svg'
+import './assets/Cores.svg'
+import './assets/Cell_PhoneApp.svg'
 
 
 function IdentVisual() {
@@ -36,7 +36,7 @@ margin: 0;
                 </tittles>
 
                 <imgs>
-                    <img src={Cores.svg} alt="Identidade Visual" />
+                    <img src="Cores.svg" alt="Identidade Visual" />
                 </imgs>
 
                 <texts>
@@ -59,7 +59,7 @@ margin: 0;
                 </tittles>
 
                 <imgs>
-                    <img src={Nosso - negocio.svg} alt="Nosso negocio" />
+                    <img src="negocio.svg" alt="Nosso negocio" />
                 </imgs>
 
             </NossoNegocio>
@@ -76,7 +76,7 @@ margin: 0;
                 </texts>
 
                 <imgs>
-                    <img src={Cell_PhoneApp.svg} alt="Aplicativos Mobile" />
+                    <img src="Cell_PhoneApp.svg" alt="Aplicativos Mobile" />
                 </imgs>
 
             </VisaoFuturo>

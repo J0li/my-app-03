@@ -6,6 +6,7 @@ import './assets/Cell_PhoneApp.svg'
 function IdentVisual() {
     const IdVisual = styled.div`
 margin: 0;
+background: #175EC6;
 `
 
 

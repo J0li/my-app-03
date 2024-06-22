@@ -1,6 +1,7 @@
 import './assets/negocio.svg'
 import './assets/Cores.svg'
 import './assets/Cell_PhoneApp.svg'
+import './IdVisual.css'
 
 
 function IdentVisual() {

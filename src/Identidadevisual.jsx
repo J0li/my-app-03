@@ -141,14 +141,14 @@ flex-direction: column;
 
                     <div>
                         <img src={iphone} alt="Aplicativo Mobile IOS" />
-                        <p>IOS</p>
+                        <p style={{ color: '#175EC6' }} >IOS</p>
                     </div>
 
                     <p>Um aplicativo para dispositiveis moveis, tanto para o sistema android como IOS</p>
 
                     <div>
                         <img src={android} alt="Aplicativo Mobile Android" />
-                        <p>Android</p>
+                        <p style={{ color: '#2CB87B' }} >Android</p>
                     </div>
 
                 </Img2>

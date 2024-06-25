@@ -94,7 +94,7 @@ flex-direction: column;
         <div>
             <IdVisual>
 
-                <SubTittle>
+                <SubTittle >
                     <h3>nossas escolhas</h3>
                 </SubTittle>
 

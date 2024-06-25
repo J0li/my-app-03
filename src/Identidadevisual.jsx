@@ -95,11 +95,11 @@ flex-direction: column;
             <IdVisual>
 
                 <SubTittle >
-                    <h3>nossas escolhas</h3>
+                    <h3 style={{ color: '#E0FDA1' }}>nossas escolhas</h3>
                 </SubTittle>
 
                 <Tittles>
-                    <h2>Identidade visual</h2>
+                    <h2 style={{ color: '#fff' }}>Identidade visual</h2>
                 </Tittles>
 
                 <Imgs>
@@ -130,11 +130,11 @@ flex-direction: column;
             <VisaoFuturo>
 
                 <SubTittle>
-                    <h3>E não para por aí</h3>
+                    <h3 style={{ color: '#000' }}>E não para por aí</h3>
                 </SubTittle>
 
                 <Tittles>
-                    <h2>Futuros passos</h2>
+                    <h2 style={{ color: '#FB8C00' }}>Futuros passos</h2>
                 </Tittles>
 
                 <Img2>

@@ -127,6 +127,8 @@ flex-direction: column;
 
             </IdVisual>
 
+/* Parte sobre a logo */
+
             <VisaoFuturo>
 
                 <SubTittle>

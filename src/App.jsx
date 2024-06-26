@@ -1,11 +1,11 @@
 import './App.css'
-import IdentVisual from './Identidadevisual'
+import HeaderServiços from './components/HeaderServiços'
 
 function App() {
 
   return (
     <>
-      < IdentVisual />
+      <HeaderServiços />
     </>
   )
 }

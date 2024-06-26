@@ -5,7 +5,7 @@ import verde2 from './assets/77DD77.png'
 import laranja from './assets/FB8C00.png'
 import branco from './assets/ffffff.png'
 import android from './assets/app android v2.png'
-import iphone from "./assets/app ios.png"
+import iphone from  './assets/app ios.png'
 import styled from 'styled-components'
 
 

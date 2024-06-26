@@ -40,4 +40,5 @@
 .btn-del:hover {
     background: #77DD77;
     color: #131922;
+    position: relative;
 }

@@ -1,11 +1,11 @@
 import './App.css'
-import HeaderServiços from './components/HeaderServiços'
+import Serviços from './HeaderServiços'
 
 function App() {
 
   return (
     <>
-      <HeaderServiços />
+      <Serviços />
     </>
   )
 }

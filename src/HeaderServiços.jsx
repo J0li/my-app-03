@@ -1,5 +1,5 @@
 import React from "react";
-import fundoServico from '../assets/headerservicos.png';
+import fundoServico from './assets/headerservicos.png';
 
 function Servicos() {
 
@@ -8,7 +8,7 @@ function Servicos() {
 position: relative;
 `
 
-    const imagemS = styled.div`
+    const ImagemS = styled.div`
     width: 100%;
     position: absolute;
 
@@ -18,9 +18,6 @@ position: relative;
     position: absolute;
 `
 
-    const plansContainer = styled.div`
-    position: center;
-`
 
 
     return (
@@ -34,7 +31,7 @@ position: relative;
             </ConteinerOpcao>
 
             <Servheader>
-                <imagemS><img src={fundoServico} /></imagemS>
+                <ImagemS><img src={fundoServico} /></ImagemS>
             </Servheader>
 
         </div>

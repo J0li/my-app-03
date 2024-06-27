@@ -6,6 +6,7 @@ function Servicos() {
     const Servheader = styled.div`
     width:100%;
 position: relative;
+
 `
 
     const ConteinerOpcao = styled.div`
@@ -13,10 +14,7 @@ position: relative;
 `
 
     const plansContainer = styled.div`
-background: #175EC6;
-`
-
-    const plansCards = styled.div`
+    position: center; 
 `
 
 

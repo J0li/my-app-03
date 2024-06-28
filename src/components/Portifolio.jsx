@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './portifolio.css'
+import '../portifolio.css';
 
 function Portifolio() {
     const [selectedImage, setSelectedImage] = useState(null);

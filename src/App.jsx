@@ -1,11 +1,11 @@
 import './App.css'
-import Serviços from './HeaderServiços'
+import Portifolio from './components/Portifolio'
 
 function App() {
 
   return (
     <>
-      <Serviços />
+      <Portifolio />
     </>
   )
 }
